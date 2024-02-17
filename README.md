@@ -13,7 +13,6 @@ Welcome to the repository containing C programming labs completed during my stud
 - **Lab 4: Pointer Techniques**: Introduces pointer concepts in C programming, including memory allocation, accessing elements, and manipulation.
 
 - **Lab 5: Stack**: Introduction to stack data structure, implementation, and common operations such as push, pop, and peek.
--     -
 
 
 ## What I Learned
